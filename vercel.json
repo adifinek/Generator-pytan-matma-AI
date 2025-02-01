@@ -11,6 +11,5 @@
       "src": "/(.*)",
       "dest": "api/index.py"
     }
-  ],
-  "ignoreCommand": "echo 'Ignore static build'"
+  ]
 }
